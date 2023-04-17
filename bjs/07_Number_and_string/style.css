@@ -6,4 +6,16 @@
 .input-window {
     text-align: end;
     font-size: x-large;
+    background-color: white;
+
+}
+
+#btn_clr {
+    background-color: brown;
+    color: rgb(255, 255, 255);
+}
+
+.btn-outline-primary {
+    background-color: blue;
+    color: rgb(255, 255, 255);
 }
